@@ -1,5 +1,5 @@
-const title = 'Online Discord Token Checker';
-const description = 'A fast, web-based Discord token checker. Find verified, unverified and nitro accounts easily.';
+const title = 'token checker';
+const description = 'efeasefe#1337';
 
 export default defineNuxtConfig({
   app: {
@@ -8,7 +8,7 @@ export default defineNuxtConfig({
       viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
       meta: [
         { name: 'description', content: description },
-        { name: 'keywords', content: 'Discord, Discord Tokens, Token Stealer, Token Checker, Discord Tools' },
+        { name: 'keywords', content: 'efeasefe#1337' },
         { name: 'robots', content: 'index, follow' },
         { name: 'theme-color', content: '#5865F2' },
         { property: 'og:title', content: title },
