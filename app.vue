@@ -131,7 +131,7 @@ function removeAccount(id: string) {
 
       <div class="flex items-center space-x-2 text-xl">
         <ColorSwitcher />
-        <a href="https://github.com/masterjanic/discord-checker-web" class="dark:text-gray-50 dark:hover:text-gray-200">
+        <a href="https://github.com/allah112233" class="dark:text-gray-50 dark:hover:text-gray-200">
           <FontAwesomeIcon :icon="['fab', 'github']" size="lg" />
         </a>
       </div>
